@@ -1,0 +1,10 @@
+{
+  "name": "The Guest’s-Eye View",
+  "short_name": "Guest’s-Eye View",
+  "description": "Confidential restaurant guest-experience and marketing audits.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f8f5ef",
+  "theme_color": "#5f2424",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
